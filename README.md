@@ -14,4 +14,4 @@ https://nubiabencomo.github.io/challenge2portfolio/
 Made with ❤️ by Nubia Bencomo
 
 ## Appearance
-
+![](assets/appearance.jpg)
